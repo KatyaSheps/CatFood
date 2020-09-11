@@ -43,7 +43,7 @@ header h1 {
 }
 
 .image {
-    height: 55%;
+    height: 56%;
     position: relative;
     display: block;
     background-image: url("../images/cat.png");
@@ -99,7 +99,7 @@ header h1 {
 }
 
 .status p {
-    font:  10px "Trebuchet MS";
+    font:  14px "Trebuchet MS";
     color: white;
     margin-left: 50px;
 }
